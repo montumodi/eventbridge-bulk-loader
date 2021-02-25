@@ -1,4 +1,4 @@
-# AWS SQS Bulk Loader
+# AWS EventBridge Bulk Loader (WORK IN PROGRESS)
 
 A set of functions to help sending bulk messages in sequence or parallel to AWS EventBridge.
 

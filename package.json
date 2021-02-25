@@ -1,6 +1,6 @@
 {
   "name": "eventbridge-bulk-loader",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "A set of functions to help sending bulk messages in sequence or parallel to AWS Eventbridge",
   "main": "src/index.js",
   "scripts": {
